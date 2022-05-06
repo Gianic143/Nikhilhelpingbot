@@ -2,49 +2,46 @@
 
 
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』 </b>
+<b> [NIKHILHELPINGBOT] </b>
 </h1>
 
 <h6 align="center">
-  <b>⚡ Presenting a LegendBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
+  <b>⚡ Presenting a NikhilhelpingBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
 </h6>
 
 
-[![](https://img.shields.io/badge/LegendBot-v2.0-blue)](#)
-[![Stars](https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?style=flat-square&color=yellow)](https://github.com/LEGEND-AI/LEGENDBOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?style=flat-square&color=orange)](https://github.com/LEGEND-AI/LEGENDBOT/fork)
-[![Size](https://img.shields.io/github/repo-size/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/)   
+[![](https://img.shields.io/badge/NikhilhelpingBot-v2.0-blue)](#)
+[![Stars](https://img.shields.io/github/stars/Gianic143/Nikhilhelpingbot?style=flat-square&color=yellow)](/stargazers)
+[![Forks](https://img.shields.io/github/forks/Gianic143/Nikhilhelpingbot?style=flat-square&color=orange)](https://github.com/Gianic143/Nikhilhelpingbot/fork)
+[![Size](https://img.shields.io/github/repo-size/Gianic143/Nikhilhelpingbot?style=flat-square&color=green)](https://github.com/Gianic143/Nikhilhelpingbot/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/LEGEND-AI/LEGENDBOT/graphs/commit-activity)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LEGEND-AI/LEGENDBOT)
-[![Contributors](https://img.shields.io/github/contributors/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Gianic143/Nikhilhelpingbot/graphs/commit-activity)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Gianic143/Nikhilhelpingbot)
+[![Contributors](https://img.shields.io/github/contributors/Gianic143/Nikhilhelpingbot?style=flat-square&color=green)](https://github.com/Gianic143/Nikhilhelpingbot/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/LEGEND-AI/LEGENDBOT/blob/main/LICENSE)   
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Gianic143/Nikhilhelpingbot/blob/main/LICENSE)   
 
 ------
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-AI/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT?"></a>
+    <a href="https://github.com/Gianic143/Nikhilhelpingbot/network/members"><img src="https://img.shields.io/github/forks/Gianic143/Nikhilhelpingbot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Gianic143/Nikhilhelpingbot/stargazers"><img src="https://img.shields.io/github/stars/Gianic143/Nikhilhelpingbot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Gianic143/Nikhilhelpingbot"></a><p align="left"><a href="https://github.com/Gianic143/Nikhilhelpingbot?"></a>
 
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_K_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_K_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Gianicbotsupport)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/GIANICBOT_SUPPORT)
 
 ------
 
-## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
 
-- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
 <h3> Dєρℓογ το нєяοκυ </h3>
 
 - Fork This Main Repo.
 - Go to Setting Of Repo.
-- Rename the Fork Repo Put Anything Example : LEGEND1BOT, HSKSBOT, LEGENDOFFBOT etc...
+- Rename the Fork Repo Put Anything Example : NIKHILHELPING1BOT, HSKSBOT, NIKHILOFFBOT etc...
 - Now U Can Deploy This Bot.
 
 <a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
@@ -60,29 +57,10 @@
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 ------
 
-## Repl
 
-[![Run on Repl.it](https://replit.com/badge/github/LEGEND-AI/LEGENDBOT)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py)
 
-- To Get Details Of StringSession Follow Step: 
-- Go To Telegram And Search @Legend_SessionGeneratorBot
-- Click Start
-- Send Ur Phone Number To @Legend_SessionGeneratorBot
-- U Received Code From Telegram Like This=278291
-- Copy Ur Code
-- Send The Code To @Legend_SessionGeneratorBot with Each Space
-- Check SAVED MESSAGE
 
-### Terminal
-- Open the terminal.
-- Paste this code.
-
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/ITS-LEGENDBOT/LEGENDBOT/master/LegendString.py && python3 LegendString.py`
-- Fill API ID, API HASH, Phone number (with country code).
-- Paste the OTP received on Telegram.
-- If You have Enabled 2-Step Verification then fill your password.
-- Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
+ 
 
 
 
@@ -92,7 +70,7 @@
 >                     ❗YOU ARE FOREWARNED❗
 > We won't be responsible for any kind of ban due to this bot.
 
-> LegendBot was made for fun purpose and to make group management easier.
+> NikhilhelpingBot was made for fun purpose and to make group management easier.
 
 > It's your concern if you spam and gets your account banned.
 
@@ -109,4 +87,4 @@
 </details>
 
 
-> Made with 💕 by [@LegendBot_XD](https://t.me/LegendBot_XD).    
+   
